@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently searching for work.
 
-- 🌱 I’m currently learning ReactJS, typescript.
+- 🌱 I’m currently learning Java, SpringBoot, JavaScript, Angular.
 
 - 📫 How to reach me **mazzojp@gmail.com**
 
@@ -15,14 +15,21 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=joaopmazzo&show_icons=true" alt="maykbrito"/> 
 </p>
 
-<p align="center">
-<a href="https://twitter.com/zemazzo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joaopmazzo" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/joão-paulo-mazzo-2ab6b21b7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joaopmazzo" height="20" width="20" /></a>
-<a href="https://fb.com/joaopaulo.mazzo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="joaopmazzo" height="20" width="20" /></a>
-<a href="https://instagram.com/jp.mazzo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joaopmazzo" height="20" width="20" /></a>
-</p>
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopmazzo&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+  
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+ </div>
+
+<div align="center"><br>
+   <a href="https://instagram.com/jp.mazzo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "mailto:mazzojp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/joão-paulo-mazzo-2ab6b21b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
 
 ![Snake animation](https://github.com/joaopmazzo/joaopmazzo/blob/output/github-contribution-grid-snake.svg)
