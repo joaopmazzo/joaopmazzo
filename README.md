@@ -17,14 +17,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 </p>
 
-<div>
+<p>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopmazzo&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopmazzo&layout=compact)](https://github.com/joaopmazzo/github-readme-stats)
-</div>
+</p>
   
-<div align="center">
+<p>
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaopmazzo)](https://git.io/streak-stats)
- </div>
+</p>
 
 <div align="center"><br>
    <a href="https://instagram.com/jp.mazzo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
