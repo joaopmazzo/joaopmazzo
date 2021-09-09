@@ -19,11 +19,11 @@
 
 <div>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopmazzo&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopmazzo&layout=compact)](https://github.com/joaopmazzo/github-readme-stats)
 </div>
   
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaopmazzo)](https://git.io/streak-stats)
  </div>
 
 <div align="center"><br>
