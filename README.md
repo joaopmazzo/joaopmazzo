@@ -24,3 +24,5 @@
 <a href="https://fb.com/joaopaulo.mazzo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="joaopmazzo" height="20" width="20" /></a>
 <a href="https://instagram.com/jp.mazzo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joaopmazzo" height="20" width="20" /></a>
 </p>
+
+![Snake animation](https://github.com/franciane-lark/franciane-lark/blob/output/github-contribution-grid-snake.svg)
