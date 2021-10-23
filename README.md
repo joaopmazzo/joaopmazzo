@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer Student focused on learn even more every day</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaopmazzo" alt="joaopmazzo" /> </p>
 
-- 🔭 I’m currently working in NEXUM.
+- 🔭 I’m currently working in NEXUM Tecnologia.
 - 💻 Software Development Technician.
 - :wrench: Learning Java, SpringBoot, JavaScript, Angular.
 - :pencil2: Studing in Capgemini Full Stack Bootcamp.
