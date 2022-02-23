@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working in [NEXUM Tecnologia](https://nexum.com.br/ "NEXUM Tecnologia").
 - 💻 Software Development Technician.
-- :wrench: Learning Java, SpringBoot, JavaScript, Angular.
+- :wrench: Learning Java, JavaScript, Vue.
 - :pencil2: Studing in [Alura](https://www.alura.com.br/ "Alura").
 - 💬 I like watch series/movies, play games like CS:GO, R6 and take some pictures.
 - 📧 How to reach me:
