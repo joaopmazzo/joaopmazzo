@@ -2,10 +2,9 @@
 <h3 align="center">A Web Developer Student focused on learn even more every day</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaopmazzo" alt="joaopmazzo" /> </p>
 
-- 🔭 I’m currently working in [NEXUM Tecnologia](https://nexum.com.br/ "NEXUM Tecnologia").
-- 💻 Software Development Technician.
-- :wrench: Learning Java, JavaScript, Vue.
-- :pencil2: Studing in [Alura](https://www.alura.com.br/ "Alura").
+- 🔭 I’m currently working in [NT Consult](https://ntconsult.com.br/).
+- 💻 Software Engineer.
+- :wrench: Senior Java and React developer.
 - 💬 I like watch series/movies, play games like CS:GO, R6 and take some pictures.
 - 📧 How to reach me:
 
