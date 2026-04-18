@@ -2,9 +2,9 @@
 <h3 align="center">A Web Developer Student focused on learn even more every day</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaopmazzo" alt="joaopmazzo" /> </p>
 
-- 🔭 I’m currently working in [NT Consult](https://ntconsult.com.br/).
+- 🔭 I’m currently working at [NT Consult](https://ntconsult.com.br/).
 - 💻 Software Engineer.
-- :wrench: Senior Java and React developer.
+- :wrench: Senior Back-end developer.
 - 💬 I like watch series/movies, play games like CS:GO, R6 and take some pictures.
 - 📧 How to reach me:
 
